@@ -1,0 +1,45 @@
+.tournament-detail-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.matches {
+  margin-top: 20px;
+}
+
+.match {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.team {
+  margin-bottom: 10px;
+}
+
+.team p {
+  margin: 5px 0;
+}
+
+.team input {
+  padding: 5px;
+  margin-top: 5px;
+  width: 50px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
